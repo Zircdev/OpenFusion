@@ -6,7 +6,7 @@
 <h1 align="center">OpenFusion</h1>
 
 <div align="center">
-[![GitHub](https://img.shields.io/badge/GitHub-repo-blue?style=flat-square&logo=github)](https://github.com/HMCL-dev/HMCL)
+[![GitHub](https://img.shields.io/badge/GitHub-repo-blue?style=flat-square&logo=github)](https://github.com/HMCL-dev/HMCL)]
 </div>
 
 ## 简介
