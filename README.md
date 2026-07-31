@@ -21,5 +21,6 @@ OpenFusion 已经有不超过 1 位贡献者参与其中，感谢他们的辛勤
 [贡献者](https://github.com/Zircdev/OpenFusion/graphs/contributors)
 
 ## 开源协议
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 该程序在 [Apache License Version 2.0](https://www.apache.org/licenses/LICENSE-2.0.html) 开源协议下发布。
