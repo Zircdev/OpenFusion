@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="/Logos.png" alt="OpenFusionLogos" width="64"/>
+    <img src="/README/Logos.png" alt="OpenFusionLogos" width="64"/>
 </div>
 
 <h1 align="center">OpenFusion</h1>
